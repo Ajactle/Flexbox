@@ -1,0 +1,21 @@
+.contenedor {
+  display: flex;
+  flex-flow: row;
+  flex-direction: row;
+  /*flex-direction:colum-reverse;*/
+}
+/*Flex-direction:
+-row
+-row-reverse
+-colum
+-colum-reverse
+*/
+.elemento{
+  width: 25%;
+  background-color: blueviolet;
+  height: 30px;
+  border: solid;
+  margin: 5px;
+  text-align: center;
+
+}
