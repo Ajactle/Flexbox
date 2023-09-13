@@ -16,8 +16,12 @@ En este proyecto nos enfocamos en construir cajas de flexbox para tener una idea
 
   * **Div class:** Nos permite agregar uno o varios elementos para las cajas que ocuparas.
 
-  *  **.contenedor;** Usamos el css3 ya que aca podemos diseñar mas las cajas unsando flex-direction y flex-flow.
+  *  **.contenedor:** Usamos el css3 ya que aca podemos diseñar mas las cajas unsando flex-direction y flex-flow:
+
+     
     <img src=""https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
+* **:**
+    
     
 
 
